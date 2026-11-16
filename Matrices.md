@@ -31,14 +31,10 @@ Therefore matrix multiplication is composition of functions, not all functions a
 
 ## 🔗 Connections & Cross-Pollination
 
-_How does this connect to what you already know? Cross boundaries between your topics (e.g., connecting a concept from 'Thinking, Fast and Slow' to Trading Psychology)._
+_How does this connect to what you already know?_
 
-- **Up (MOC):** [[MOC - System Design]] OR [[MOC - Quantum Computing]]
-    
-- **Related:** [[Name of a related note]]
-    
-- **Contrasts with:** [[Name of an opposing concept]]
-    
+- **Up (MOC):** [[MOC - Quantum Computing]]
+  
 
 ## 📚 References
 

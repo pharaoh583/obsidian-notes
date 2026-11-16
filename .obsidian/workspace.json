@@ -11,6 +11,16 @@
             "id": "0ce4d01b4fc8a4bc",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "65d7dd19988479b9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Matrices.md",
@@ -19,16 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Matrices"
-            }
-          },
-          {
-            "id": "65d7dd19988479b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           },
           {
@@ -189,9 +189,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "e4bae8ab2b137fd2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,10 +216,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "65d7dd19988479b9",
+  "active": "e4bae8ab2b137fd2",
   "lastOpenFiles": [
     "Matrices.md",
     "file:C:/Users/ADMIN/Downloads/Quantum Computing An Applied Approach by Jack D. Hidary (z-lib.org).pdf",

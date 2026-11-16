@@ -1,3 +1,6 @@
 {
-  "showRibbon": false
+  "showRibbon": false,
+  "cssTheme": "Shade Sanctuary",
+  "accentColor": "",
+  "theme": "obsidian"
 }
