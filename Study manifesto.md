@@ -125,12 +125,43 @@ flowchart TD
 
 ## 📚 Curriculum Inputs (Current Reading List)
 
-- **Software Architecture and coding:** _Designing Data-Intensive Applications_ (Kleppmann), _System Design Interview_ (Xu), _Clean Architecture_ (Martin).
+- **Software Architecture and coding:** 
+  - [ ] _AI in AWS_
+  - [ ] _Software Architecture_
+  - [ ] _Designing Data Intensive Applications_
+  - [ ] _The Pragmatic Programmer_
+  - [ ] _System Design Interview_
+  - [ ] _Software Architecture the hard parts_
+  - [ ] _Software Architecture Patterns_
+  - [ ] _Release It! Design and Deploy Production-Ready Software_
+  - [ ] _Observability Engineering Achieving Production Excellence_
+  - [ ] _Design Patterns_    
     
-- **Quantum Computing:** _Linear Algebra Done Right_ (Axler), _Quantum Computing: An Applied Approach_ (Hidary), _Quantum Computation and Quantum Information_ (Nielsen & Chuang).
+- **Quantum Computing:** 
+  - [ ] _Computation Conferences_ (Feynman)
+  - [ ] _Quantum Supremacy_ (Kaku)
+  - [ ] _Linear Algebra Done Right_ (Axler) 
+  - [ ] _Quantum Computing: An Applied Approach_ (Hidary) 
+  - [ ] Quantum Computation and Quantum Information_ (Nielsen & Chuang).
+  - [ ] _Quantum Random Number Generators_
+  - [ ] _Quantum Environments_
+  - [ ] _IBM Quantum Computing Course_
     
 - **Japanese:** _Genki I & II_, _Remembering the Kanji_ (Heisig).
     
-- **Finance & Blockchain:** _The Psychology of Money_ (Housel), _Mastering Bitcoin_ (Antonopoulos), _DeFi and the Future of Finance_ (Harvey).
+- **Finance & Blockchain:** 
+  - [ ] _Algorithmic Trading_
+  - [x] _Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond_
+  - [x] _The Simple Path to Wealth_
     
-- **Polymath Explorations:** _Gödel, Escher, Bach_ (Hofstadter), _Man and His Symbols_ (Jung), _Thinking, Fast and Slow_ (Kahneman), _The Open Work_ (Eco).
+- **Polymath Explorations:**
+	- IOI teaching
+	  - [ ] _Preparing for the IOI through Developmental Teaching_
+	  - [ ] _Olympiads in informatics Tasks and Training Volume 1 and 2_
+	- Cryptography and hacking
+	  - [ ] _An Introduction to Mathematical Cryptography_
+	- Math
+	  - [ ] _Abstract Algebra_
+	  - [ ] _Math for Machine Learning_
+	- Others
+	  - [ ] _Man and his Symbols_
