@@ -1,8 +1,8 @@
-aliases: [] tags:
-
-- seedling date: {{date}} source: ""
-    
-
+---
+created: "{{date}} {{time}}"
+aliases:
+tags:
+---
 # 🧠 Feynman Summary
 
 > [!summary] Explain it to a beginner _Write a 2-3 sentence explanation of this concept in your own words. If you can't write this clearly, you need to review the source material._

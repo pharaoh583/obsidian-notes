@@ -4,35 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4b9da8c85102a960",
+        "id": "6e4be894ea83283c",
         "type": "tabs",
         "children": [
           {
-            "id": "0ce4d01b4fc8a4bc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "65d7dd19988479b9",
+            "id": "5744a34c1c687fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrices.md",
+                "file": "Study manifesto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrices"
+              "title": "Study manifesto"
             }
           },
           {
-            "id": "b47207a2c00839d5",
+            "id": "1e7428dc6162712c",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -43,8 +33,7 @@
               "title": "Quantum Computing An Applied Approach by Jack D. Hidary (z-lib.org)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6cd3e45728d0b5a6",
@@ -122,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Study manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -182,6 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Study manifesto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,17 +210,27 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e4bae8ab2b137fd2",
+  "active": "0751ae194734b03c",
   "lastOpenFiles": [
-    "Matrices.md",
+    "01 Literature Notes/Matrices.md",
+    "00 Inbox/Vector space.md",
     "file:C:/Users/ADMIN/Downloads/Quantum Computing An Applied Approach by Jack D. Hidary (z-lib.org).pdf",
-    "Templates/Atomic note template.md",
+    "Templates/Literature notes template.md",
+    "Study manifesto.md",
+    "Templates/Inbox template.md",
+    "Untitled.md",
+    "Templates/MOC template.md",
+    "Templates/Permanent notes template.md",
+    "03 Maps of Content (MOCs)",
+    "02 Permanent Notes",
+    "01 Literature Notes",
+    "00 Inbox",
     "Welcome.md",
     "create a link.md",
-    "Vector space.md",
     "Templates"
   ]
 }
