@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "1c42ad42cac2a24b",
+            "id": "0ce4d01b4fc8a4bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c42ad42cac2a24b",
+  "active": "0ce4d01b4fc8a4bc",
   "lastOpenFiles": [
-    "Untitled.md",
     "Vector space.md",
-    "Welcome.md"
+    "Welcome.md",
+    "file:C:/Users/ADMIN/Downloads/Quantum Computing An Applied Approach by Jack D. Hidary (z-lib.org).pdf",
+    "Untitled.md"
   ]
 }
