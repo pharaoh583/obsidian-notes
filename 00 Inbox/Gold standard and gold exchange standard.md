@@ -1,7 +1,8 @@
 ---
-created: "2026-11-16 21:48"
+created: 2026-11-16 21:48
 tags:
   - "#inbox"
+  - review
 status: pending_synthesis
 ---
 # 📥 Quick Capture
