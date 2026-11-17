@@ -11,10 +11,14 @@
             "id": "11465b6686598206",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Schedule.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Schedule"
             }
           }
         ]
@@ -169,8 +173,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -198,6 +202,11 @@
   "active": "11465b6686598206",
   "lastOpenFiles": [
     "Study manifesto.md",
+    "Schedule.md",
+    "Screenshot 2026-11-16 at 20.09.07.png",
+    "Screenshot 2026-11-16 at 20.02.38.png",
+    "Templates/Permanent notes template.md",
+    "Screenshot 2026-11-16 at 19.58.40.png",
     "List of books.md",
     "01 Literature Notes/Matrices.md",
     "00 Inbox/Vector space.md",
@@ -205,7 +214,6 @@
     "Templates/Literature notes template.md",
     "Templates/Inbox template.md",
     "Templates/MOC template.md",
-    "Templates/Permanent notes template.md",
     "03 Maps of Content (MOCs)",
     "02 Permanent Notes",
     "01 Literature Notes",

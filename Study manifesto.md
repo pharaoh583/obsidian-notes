@@ -126,8 +126,9 @@ flowchart TD
 ## 📚 Curriculum Inputs (Current Reading List)
 
 - **Software Architecture and coding:** 
-  - [ ] _AI in AWS_
-  - [ ] _Software Architecture_
+  - [ ] _Clean code_ (Martin)
+  - [ ] _AI in AWS_ (Fregly, Barth, Eigenbrode)
+  - [ ] _Introduction to Software Architecture_ (Iturralde)
   - [ ] _Designing Data Intensive Applications_
   - [ ] _The Pragmatic Programmer_
   - [ ] _System Design Interview_
@@ -142,26 +143,47 @@ flowchart TD
   - [ ] _Quantum Supremacy_ (Kaku)
   - [ ] _Linear Algebra Done Right_ (Axler) 
   - [ ] _Quantum Computing: An Applied Approach_ (Hidary) 
-  - [ ] Quantum Computation and Quantum Information_ (Nielsen & Chuang).
-  - [ ] _Quantum Random Number Generators_
-  - [ ] _Quantum Environments_
+  - [ ] _Quantum Computation and Quantum Information_ (Nielsen & Chuang).
+  - [ ] _Quantum Random Number Generation_ (Kollmitzer, Schauer, Rass, Rainer)
+  - [ ] _Quantum Computing Environments_ (Iyengar, Mastrianim, Kumar)
   - [ ] _IBM Quantum Computing Course_
     
-- **Japanese:** _Genki I & II_, _Remembering the Kanji_ (Heisig).
+- **Japanese:** 
+  - [ ] _Genki I_ 
+  - [ ] _Genki II_
+  - [ ] _Remembering the Kanji_ (Heisig)
     
 - **Finance & Blockchain:** 
-  - [ ] _Algorithmic Trading_
-  - [x] _Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond_
-  - [x] _The Simple Path to Wealth_
+  - [ ] _Algorithmic Trading_ (Chan)
+  - [x] _Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond_ (Burniske, Tatar)
+  - [x] _The Simple Path to Wealth_ (Collins)
+  - [ ] _Investments in cryptocurrencies_ (Redondo)
+  - [ ] The bogleheads guide to investment (Lindauer, Larimore, LeBoeuf)
     
 - **Polymath Explorations:**
 	- IOI teaching
 	  - [ ] _Preparing for the IOI through Developmental Teaching_
 	  - [ ] _Olympiads in informatics Tasks and Training Volume 1 and 2_
 	- Cryptography and hacking
-	  - [ ] _An Introduction to Mathematical Cryptography_
+	  - [ ] _An Introduction to Mathematical Cryptography_ (Hoffstein, Pipher, Silverman)
+	  - [ ] _The Hacker Book_ (Caballero, Serrano)
+	  - [ ] _Protecting Privacy through Homomorphic Encryption_ (Lauter, Dai, Laine)
+	  - [ ] _Encryption and Decryption Algorithms for Plain Text and Images using Fractional Calculus_ (Martinez, Montesions, Flores)
+	  - [ ] _The Complete Guide to SCION_ (Chuat, Legner, Basin, Hausheer, Hitz, Müller, Perrig)
 	- Math
-	  - [ ] _Abstract Algebra_
-	  - [ ] _Math for Machine Learning_
+	  - [ ] _Problem Solving Strategies_ (Engel)
+	  - [ ] _Solving Mathematical Problems_ (Tao)
+	  - [ ] _Book of Proof_ (Hammack) 
+	  - [ ] _Abstract Algebra Theory and Applications_ (Judson)
+	  - [ ] _Math for Machine Learning_ (Deisenroth, Faisal, Ong)
+	  - [ ] _Combinatorial Optimization_ (Korte, Vygen)
+
+	- Data
+	  - [ ] _Big Data_ (Sosa)
 	- Others
-	  - [ ] _Man and his Symbols_
+	  - [ ] _Man and his Symbols_ (Jung)
+	  - [ ] _Big Data_ (Escudero)
+	  - [ ] _Poetic Mechanics_ (Clark)
+	  - [ ] _Ocultism_ (Greer)
+	  - [ ] _The red book_ (Jung)
+	  - [ ] _Tarot mirror of the soul_ (Ziegler)
