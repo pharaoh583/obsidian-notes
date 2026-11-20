@@ -1,6 +1,6 @@
 {
   "showRibbon": false,
-  "cssTheme": "Terminal",
-  "accentColor": "",
+  "cssTheme": "GitHub Theme",
+  "accentColor": "#d821fd",
   "theme": "obsidian"
 }

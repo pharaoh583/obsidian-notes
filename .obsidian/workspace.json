@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "ecb741e5d2a9f16a",
+        "id": "cf9c90b876bc001b",
         "type": "tabs",
         "children": [
           {
-            "id": "c260dad937e4e969",
+            "id": "cc841d97d48f7b9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Blockchain.md",
+                "file": "00 Inbox/Group.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blockchain"
+              "title": "Group"
+            }
+          },
+          {
+            "id": "bc3e63d52365a8af",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "file:C:/Users/ADMIN/Downloads/LADR4e.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LADR4e"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -55,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#computing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,13 +112,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 Inbox/Eigenvector and Eigenvalues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -117,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linear recurrences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,6 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00 Inbox/Eigenvector and Eigenvalues.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,8 +189,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -182,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -199,27 +215,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e4bae8ab2b137fd2",
+  "active": "bc3e63d52365a8af",
   "lastOpenFiles": [
+    "file:C:/Users/ADMIN/Downloads/Quantum Computing An Applied Approach by Jack D. Hidary (z-lib.org).pdf",
+    "file:C:/Users/ADMIN/Downloads/LADR4e.pdf",
+    "00 Inbox/Group.md",
+    "00 Inbox/Field.md",
+    "00 Inbox/Vector space.md",
+    "00 Inbox/Eigenvector and Eigenvalues.md",
+    "01 Literature Notes/Matrices.md",
+    "file:C:/Users/ADMIN/Desktop/SCION-book.pdf",
     "00 Inbox/Blockchain.md",
     "Screenshot 2026-11-16 at 20.09.07.png",
-    "00 Inbox/Data compression.md",
-    "00 Inbox/Information Theory.md",
-    "Templates/MOC template.md",
     "Schedule.md",
-    "00 Inbox/Stock-to-Flow.md",
-    "00 Inbox/Eigenvector and Eigenvalues.md",
-    "00 Inbox/Gold standard and gold exchange standard.md",
-    "Study manifesto.md",
-    "01 Literature Notes/Matrices.md",
-    "Screenshot 2026-11-16 at 20.02.38.png",
-    "Templates/Permanent notes template.md",
-    "Screenshot 2026-11-16 at 19.58.40.png",
-    "List of books.md",
-    "00 Inbox/Vector space.md",
-    "file:C:/Users/ADMIN/Downloads/Quantum Computing An Applied Approach by Jack D. Hidary (z-lib.org).pdf",
+    "Templates/MOC template.md",
     "Templates/Literature notes template.md",
     "Templates/Inbox template.md",
+    "00 Inbox/Data compression.md",
+    "00 Inbox/Information Theory.md",
+    "00 Inbox/Stock-to-Flow.md",
+    "linear recurrences.md",
+    "00 Inbox/Gold standard and gold exchange standard.md",
+    "Study manifesto.md",
+    "Untitled.base",
+    "List of books.md",
+    "Templates/Permanent notes template.md",
     "03 Maps of Content (MOCs)",
     "02 Permanent Notes",
     "01 Literature Notes",

@@ -4,6 +4,7 @@ tags:
   - "#inbox"
   - review
 status: pending_synthesis
+aliases:
 ---
 # 📥 Quick Capture
 
