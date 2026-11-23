@@ -7,13 +7,13 @@ tags:
 ---
 # 🧠 Feynman Summary
 
-> [!summary] Matrices transform a vector space and are analogous to functions, then matrix multiplication is analogous to function composition
+> [!summary] _Matrices transform a [[vector space]] and are analogous to functions, then matrix multiplication is analogous to function composition_
 
 ## 📝 Core Concept
 
 One possible view of a matrix is a function $T(\vec{v}) = \vec{w}$ on a [[Vector space]], where each column is the function evaluated in one of the basis of $V$ decomposed in the basis of $W$. 
 
-Therefore matrix multiplication is composition of functions, not all functions are invertible and that is why not all matrices are invertible, one can check if a matrix if invertible if the determinant $|M|≠ 0$. 
+Therefore matrix multiplication is composition of functions, not all functions are invertible and that is why not all matrices are invertible, one can check if a matrix if invertible if the determinant $|M| ≠ 0$. 
 
 - **Mechanism:** How does it work? 
 	Let's take the Fibonacci recurrence relation as example
