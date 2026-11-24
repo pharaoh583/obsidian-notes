@@ -54,7 +54,6 @@ To sustain 4 hours of daily study without burning out, sessions follow strict ti
     
 - **17:00 onwards | Free Evening & Night:** Long walk, a good pasta with wine, video games, or cultural outings.
     
-
 ### Sunday: Financial Strategy, Polymath Exploration & Synthesis (4.5 hours of study)
 
 - **09:00 - 10:00 | Quiet Breakfast:** Relaxed start to the day.
@@ -143,10 +142,10 @@ flowchart TD
   - [ ] _Quantum Supremacy_ (Kaku)
   - [ ] _Linear Algebra Done Right_ (Axler) 
   - [ ] _Quantum Computing: An Applied Approach_ (Hidary) 
-  - [ ] _Quantum Computation and Quantum Information_ (Nielsen & Chuang).
   - [ ] _Quantum Random Number Generation_ (Kollmitzer, Schauer, Rass, Rainer)
   - [ ] _Quantum Computing Environments_ (Iyengar, Mastrianim, Kumar)
   - [ ] _IBM Quantum Computing Course_
+  - [ ] _Quantum Computation and Quantum Information_ (Nielsen & Chuang).
     
 - **Japanese:** 
   - [ ] _Genki I_ 
@@ -155,7 +154,7 @@ flowchart TD
     
 - **Finance & Blockchain:** 
   - [ ] _Algorithmic Trading_ (Chan)
-  - [x] _Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond_ (Burniske, Tatar)
+  - [ ] _Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond_ (Burniske, Tatar)
   - [x] _The Simple Path to Wealth_ (Collins)
   - [ ] _Investments in cryptocurrencies_ (Redondo)
   - [ ] The bogleheads guide to investment (Lindauer, Larimore, LeBoeuf)
