@@ -1,6 +1,9 @@
 {
-  "showRibbon": false,
+  "showRibbon": true,
   "cssTheme": "GitHub Theme",
   "accentColor": "#d821fd",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": false
 }

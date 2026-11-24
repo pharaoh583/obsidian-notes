@@ -26,50 +26,7 @@ To sustain 4 hours of daily study without burning out, sessions follow strict ti
 
 ## 📅 Full Weekly Schedule
 
-### Weekdays: Work & Intensive Study (Mon-Fri)
-
-| **Time**          | **Activity**               | **Focus / Details**                                                                       |
-| ----------------- | -------------------------- | ----------------------------------------------------------------------------------------- |
-| **07:30 - 08:30** | Breakfast & Warm-up        | Light review (Language flashcards or reading a non-technical chapter).                    |
-| **09:00 - 17:00** | Work                       | Full-time engineering workday.                                                            |
-| **17:00 - 18:30** | Disconnect & Exercise      | Walk, dinner, and mental reset. Separating work from study is vital.                      |
-| **18:30 - 20:30** | Study: Block 1 (High Load) | **Software Architecture / Quantum Computing.** (Requires math and complex system design). |
-| **20:30 - 20:45** | Break                      | Active pause. Hydrate and step away from screens.                                         |
-| **20:45 - 22:45** | Study: Block 2 (Dynamic)   | **Finance / Language.** (More applied concepts and spatial/visual memorization).          |
-| **22:45 - 23:30** | Leisure & Free Reading     | Video games, music, poetry, or tarot. Transition to sleep.                                |
-
-### Saturday: Deep Practice, Laboratory & Immersion (5 hours of study)
-
-- **08:30 - 09:30 | Breakfast & Warm-up:** Unrushed start, coffee, and light vocabulary review (Anki).
-    
-- **09:30 - 11:30 | Block 1: Engineering & System Design Lab (2h):** Applied practice (designing distributed architectures, writing characterization tests, prototyping microservices, or practicing high-level interviews).
-    
-- **11:30 - 12:00 | Active Break:** Stretching and screen break.
-    
-- **12:00 - 14:00 | Block 2: Quantum Computing & Practical Cryptography (2h):** Linear algebra problem solving or implementation of quantum circuits and algorithms in code (Qiskit/Cirq).
-    
-- **14:00 - 16:00 | Lunch & Disconnection:** Quiet meal away from the desk.
-    
-- **16:00 - 17:00 | Block 3: Cultural Immersion & Language (1h):** Consumption of native content (music, reading, podcasts, or active listening practice).
-    
-- **17:00 onwards | Free Evening & Night:** Long walk, a good pasta with wine, video games, or cultural outings.
-    
-### Sunday: Financial Strategy, Polymath Exploration & Synthesis (4.5 hours of study)
-
-- **09:00 - 10:00 | Quiet Breakfast:** Relaxed start to the day.
-    
-- **10:00 - 12:00 | Block 1: Finance, Macroeconomics, DeFi & Portfolio (2h):** Weekly market analysis, tracking investment strategy (ETFs, DCA, yields in stablecoins/RWA), and technical study of blockchain protocols.
-    
-- **12:00 - 12:30 | Active Break:** Coffee or short walk.
-    
-- **12:30 - 14:00 | Block 2: Polymath Exploration (1.5h):** Space dedicated exclusively to your alternative reading list (occultism and symbolism, pure mathematics, semiotics, analytical psychology, or cybernetics).
-    
-- **14:00 - 17:30 | Sunday Lunch & Recreation:** Physical maintenance walk and free time for video games.
-    
-- **17:30 - 18:30 | Block 3: Weekly Synthesis & Language (1h):** 30 minutes of grammar/kanji review and 30 minutes to consolidate notes of everything learned in the week, leaving Monday's objectives ready.
-    
-- **18:30 onwards | Night Decompression:** Video games, relaxing music, and early rest to start the week at 100%.
-    
+![[Schedule.png]]
 
 ## ⚙️ Retention & Execution Protocols
 

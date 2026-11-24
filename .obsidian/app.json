@@ -2,5 +2,14 @@
   "showInlineTitle": true,
   "showLineNumber": true,
   "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "tabSize": 3,
+  "openBehavior": "file:Schedule.png",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "showUnsupportedFiles": true
 }
