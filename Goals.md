@@ -53,20 +53,20 @@
 | Aug 16 – Nov 8, 2027        | _Genki II_ (Lessons 19–23) | Finish the textbook, focusing on honorific/humble formality (_Keigo_), passive, and causative structures.                                                           |
 | Nov 9 – Nov 23, 2027        | N4 Consolidation           | Audit grammar weak spots during your Sunday 30-minute language review and pass a timed **JLPT N4 practice exam**.                                                   |
 ### Parallel Kanji Track (_Remembering the Kanji, Vol. 1_ – Heisig)
-Sustainable pace of **~7 new kanji/day (50/week)**.
+Sustainable pace of **~2 new kanji/day (50/week)**.
 
 | **Target Dates**                | **Milestone**           | **Concrete Goal / Deliverable**                                                                                         |
 | ------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Dec 14, 2026 – Mar 21, 2027** | Kanji 1 – 700           | Learn the core primitives/radicals and lock in your daily morning Anki review habit.                                    |
-| **Mar 22 – Jul 4, 2027**        | Kanji 701 – 1,450       | Sustain 50 new kanji/week and begin recognizing newly learned characters inside your _Genki I/II_ reading passages.     |
-| **Jul 5 – Oct 18, 2027**        | Kanji 1,451 – 2,200     | Complete all 2,200 Jōyō kanji in Volume 1.                                                                              |
+| **Dec 14, 2026 – Mar 21, 2027** | Kanji 1 – 200           | Learn the core primitives/radicals and lock in your daily morning Anki review habit.                                    |
+| **Mar 22 – Jul 4, 2027**        | Kanji 201 – 450       | Sustain 50 new kanji/week and begin recognizing newly learned characters inside your _Genki I/II_ reading passages.     |
+| **Jul 5 – Oct 18, 2027**        | Kanji 451 – 800     | Complete all 2,200 Jōyō kanji in Volume 1.                                                                              |
 | **Oct 19 – Nov 23, 2027**       | Retention Stabilization | Pause new RTK cards; let your Anki FSRS queue mature while shifting extra time toward native reading and N4 mock exams. |
 ### Checkpoints
-- **Q1 (Sun, Feb 28, 2027):** Kana mastered; _Genki I_ Lessons 1–6 finished and started Lesson 7; ~550 kanji completed in _Remembering the Kanji_.
+- **Q1 (Sun, Feb 28, 2027):** Kana mastered; _Genki I_ Lessons 1–6 finished and started Lesson 7; ~100 kanji completed in _Remembering the Kanji_.
     
-- **Q2 (Sun, May 23, 2027):** _Genki I_ finished and JLPT N5 practice exam passed; started _Genki II_ (Lesson 13); ~1,150 kanji completed in _Remembering the Kanji_.
+- **Q2 (Sun, May 23, 2027):** _Genki I_ finished and JLPT N5 practice exam passed; started _Genki II_ (Lesson 13); ~300 kanji completed in _Remembering the Kanji_.
     
-- **Q3 (Sun, Aug 22, 2027):** _Genki II_ Lessons 13–18 finished and started Lesson 19; ~1,800 kanji completed in _Remembering the Kanji_.
+- **Q3 (Sun, Aug 22, 2027):** _Genki II_ Lessons 13–18 finished and started Lesson 19; ~800 kanji completed in _Remembering the Kanji_.
     
 - **Q4 (Sun, Nov 21, 2027):** _Remembering the Kanji (Vol. 1)_ 100% complete and stabilized; _Genki II_ finished; ready to complete your timed **JLPT N4 practice exam**.
 # Investments (7hrs./week)

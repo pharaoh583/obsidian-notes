@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2185ad74b573ae1c",
+        "id": "ca0e5b31faff4f86",
         "type": "tabs",
         "children": [
           {
-            "id": "4dbacc5115508ae2",
+            "id": "94a3c069262a9207",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Schedule.md",
-                "bFile": "Schedule.md",
-                "aRef": ""
+                "file": "Goals.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: Schedule  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Goals"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6cd3e45728d0b5a6",
@@ -195,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +214,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "648d92d3de937b44",
+  "active": "94a3c069262a9207",
   "lastOpenFiles": [
-    "Schedule.png",
+    "Goals.md",
+    "Goals graph.png",
     "file:C:/Users/ADMIN/Downloads/observability-engineering-achieving-production-excellence-9781492076445-1492076449_compress.pdf",
+    "00 Inbox/Vector space.md",
+    "Schedule.png",
     "02 Permanent Notes/Group.md",
     "02 Permanent Notes/Blockchain.md",
     "00 Inbox/Information Theory.md",
@@ -227,17 +232,14 @@
     "00 Inbox/2026-11-24.md",
     "Untitled.canvas",
     "02 Permanent Notes/Field.md",
-    "Goals.md",
     "Study manifesto.md",
     "file:C:/Users/ADMIN/Downloads/fy(29).pdf",
     "Schedule.md",
-    "Goals graph.png",
     "Codes/goals.py",
     "Codes",
     "S",
     "file:C:/Users/ADMIN/Downloads/Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017.pdf",
     "file:C:/Users/ADMIN/Downloads/genki-1-third-edition-an-integrated-course-in-elementary-japanese-1-3nbsped-4789017303-9784789017305_compress.pdf",
-    "00 Inbox/Vector space.md",
     "00 Inbox/Bitcoin.md",
     "00 Inbox/Data compression.md",
     "00 Inbox/Eigenvector and Eigenvalues.md",
